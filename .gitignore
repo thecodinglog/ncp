@@ -1,4 +1,4 @@
 dist/
 .DS_Store
 .idea/
-**/*egg-inf
+/src/ncp_wrapper.egg-info/

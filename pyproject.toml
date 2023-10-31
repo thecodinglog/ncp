@@ -1,6 +1,6 @@
 [project]
 name = "ncp_wrapper"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Jeongjin Kim", email="thefuturecreator@gmail.com" },
 ]
@@ -15,4 +15,4 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/thecodinglog/ncp"
-"Bug Tracker" = "https://github.com/thecodinglog/ncp"
+"Bug Tracker" = "https://github.com/thecodinglog/ncp/issues"
